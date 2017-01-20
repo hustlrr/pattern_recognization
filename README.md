@@ -1,1 +1,1 @@
-# patter_recognization# pattern_recognization
+这个仓库为我写的2016年中国科学院大学模式识别课程编程题代码，使用python2实现。其中第一次，第二次作业用到的MNIST数据集可以在[这里](http://yann.lecun.com/exdb/mnist/)下载。如果代码中有错误，请告诉我。
